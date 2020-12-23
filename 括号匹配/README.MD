@@ -17,5 +17,7 @@ Output：3
 2. 使用栈处理表达式
 3. 除了栈是不是还有其他解法？
 
-## 
-1. [使用栈解法，此处有一个遗留问题](Solution01.)
+## Solutions:
+1. [使用栈解法，此处有一个遗留问题](Solution01.java)
+2. [左右标记](Solution02.java)
+3. [去除法](Solution03.java)
